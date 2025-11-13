@@ -14,13 +14,13 @@ It’s designed to make PDF handling fast and efficient for everyday use or batc
 ---
 
 ## Project Structure
-
+```
 032_pdf_automation_with_python/
 ├── Input Files            # Contains files
 ├── Output Files          # Contains new files merged with cover page
 ├── main.py           # Main application logic or user interface
 └── README.md           # Project documentation
-
+```
 ---
 
 ## How to Run
